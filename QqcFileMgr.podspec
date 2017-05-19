@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.requires_arc  = true
 
   s.name         = "QqcFileMgr"
-  s.version      = "1.0.12"
+  s.version      = "1.0.44"
   s.summary      = "QqcFileMgr"
   s.homepage     = "https://github.com/xukiki/QqcFileMgr"
   s.source       = { :git => "https://github.com/xukiki/QqcFileMgr.git", :tag => "#{s.version}" }
