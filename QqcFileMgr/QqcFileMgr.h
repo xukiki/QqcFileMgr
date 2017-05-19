@@ -17,7 +17,7 @@ single_interface_qqc(QqcFileMgr)
 /**
  *  根据给定的路径创建文件
  *
- *  @param path 要创建的文件的路径
+ *  @param filePath 要创建的文件的路径
  *
  *  @return YES，成功；NO，失败
  */
@@ -26,7 +26,7 @@ single_interface_qqc(QqcFileMgr)
 /**
  *  根据给定的路径创建目录
  *
- *  @param path 要创建的目录的路径
+ *  @param filePath 要创建的目录的路径
  *
  *  @return YES，成功；NO，失败
  */
